@@ -1,0 +1,600 @@
+ANGEL LOYOLA DE MORA - Matricula: E-0948-EAY - Ano matriculacion: 1993
+Direccion: EL AAIUN - MADARCOS
+--
+ANANIAS SILVERIO CAMEJO - Matricula: E-7614-CXG - Ano matriculacion: 1997
+Direccion: MARTIN DE ABANTO - LOZOYA
+--
+VICTOR LATASA FORCEN - Matricula: E-8927-NFO - Ano matriculacion: 1995
+Direccion: ANA ABARCA DE BOLEA - GUADALIX DE LA SIERRA
+--
+CIRINO BASSA BO - Matricula: E-3874-GXR - Ano matriculacion: 2020
+Direccion: ABEDUL - CHINCHON
+--
+AMARO ARNAEZ SEJAS - Matricula: E-2860-YYC - Ano matriculacion: 2002
+Direccion: ABEN AIRE - REDUENA
+--
+NIEVES LAGOA ZULOAGA - Matricula: E-3893-IMK - Ano matriculacion: 2020
+Direccion: MARIANO ABENOZA CAMERANO - LOS SANTOS DE LA HUMOSA
+--
+CELSO MORATINOS TAIBI - Matricula: E-3788-CXF - Ano matriculacion: 2016
+Direccion: ABEJAR - COLMENAREJO
+--
+REINALDO PIRVU MOURIZ - Matricula: E-3615-OOE - Ano matriculacion: 2004
+Direccion: ABOGACIA TURNO DE OFICIO - TITULCIA
+--
+NARCISO FEIXAS UBIERNA - Matricula: E-6575-ABO - Ano matriculacion: 2008
+Direccion: JUAN ANTONIO ABRIL SANCHEZ - ALCORCON
+--
+JERONIMO COROMINA ATANASOV - Matricula: E-7777-LJV - Ano matriculacion: 2010
+Direccion: ACACIAS - VENTURADA
+--
+ARANZAZU AKRAM LIMIA - Matricula: E-0380-NQR - Ano matriculacion: 2000
+Direccion: EL ACIERTO - ARROYOMOLINOS
+--
+CIRILO MUGA CASTANARES - Matricula: E-2016-OWU - Ano matriculacion: 1996
+Direccion: ACEQUIA - PINILLA DEL VALLE
+--
+CALIXTO FEBRERO CABEZA DE VACA - Matricula: E-9880-SFZ - Ano matriculacion: 2009
+Direccion: ACONCAGUA - ALCALA DE HENARES
+--
+DOROTEA IBARZABAL TURIEL - Matricula: E-3496-HFI - Ano matriculacion: 1995
+Direccion: ACEBO - PINTO
+--
+MARTA ARNANZ CACHINERO - Matricula: E-9925-XZR - Ano matriculacion: 2000
+Direccion: EL ACORAZADO POTEMKIN - MANZANARES EL REAL
+--
+EVA BOLUFER AMPUERO - Matricula: E-0681-LYH - Ano matriculacion: 2014
+Direccion: JUAN ACHA - VILLAMANTA
+--
+COLUMBANO ARIJA OLABARRIETA - Matricula: E-7815-IUT - Ano matriculacion: 2010
+Direccion: IBON DE ACHERITO - VALDEAVERO
+--
+OTO MANCHO SUAY - Matricula: E-5392-CMP - Ano matriculacion: 2021
+Direccion: ACUARIO - VALDARACETE
+--
+RAQUEL MORGADE LAYA - Matricula: E-9520-OVL - Ano matriculacion: 2007
+Direccion: ACUEDUCTO DE SEGOVIA - LOZOYUELA-NAVAS-SIETEIGLESIAS
+--
+ANGELES VIDIELLA SERRES - Matricula: E-2586-RTE - Ano matriculacion: 2021
+Direccion: MARIANO ADAM - MANZANARES EL REAL
+--
+SIRO REMENTERIA VINUELAS - Matricula: E-2554-NFW - Ano matriculacion: 2021
+Direccion: ACEQUIA DEL CANO - CAMARMA DE ESTERUELAS
+--
+DARIO COUSILLAS BASABE - Matricula: E-7997-CBL - Ano matriculacion: 2017
+Direccion: ADELFA - LOS MOLINOS
+--
+RAUL SAUMELL RABAGO - Matricula: E-4416-BOR - Ano matriculacion: 2004
+Direccion: HERMANO ADOLFO - LOZOYUELA-NAVAS-SIETEIGLESIAS
+--
+ONESIMO WONG MANSOUR - Matricula: E-3618-MGN - Ano matriculacion: 1993
+Direccion: ADRIANO VI - ARROYOMOLINOS
+--
+BEATRIZ QUINTA MALVAR - Matricula: E-6492-XPE - Ano matriculacion: 2008
+Direccion: AEROPUERTO - GETAFE
+--
+COLUMBANO BADAL FARRAIS - Matricula: E-8875-SHK - Ano matriculacion: 2016
+Direccion: AFRICA - PARACUELLOS DEL JARAMA
+--
+HELIODORO TOBALINA SERVER - Matricula: E-9307-JEN - Ano matriculacion: 1994
+Direccion: AFUERAS - CENICIENTOS
+--
+NIEVES MORRAL CARBALLAR - Matricula: E-3729-DZJ - Ano matriculacion: 2013
+Direccion: AGATA - AMBITE
+--
+AUGUSTO CANTALLOPS AGUEDA - Matricula: E-3512-MKI - Ano matriculacion: 1995
+Direccion: SOR M. JESUS AGREDA - SAN LORENZO DEL ESCORIAL
+--
+AMPARO CONEJOS GOMEZ DE SEGURA - Matricula: E-5310-UNF - Ano matriculacion: 2016
+Direccion: NTRA. SRA. DEL AGUA - LA ACEBEDA
+--
+JULIAN FLORENTIN PADRINO - Matricula: E-4821-CYZ - Ano matriculacion: 2021
+Direccion: AGUADORES - REDUENA
+--
+SANTIAGO ARDELEAN CANUT - Matricula: E-0607-IJI - Ano matriculacion: 2001
+Direccion: AGUARON - HORCAJO DE LA SIERRA
+--
+EDGAR VINOLAS OUTON - Matricula: E-7745-RNA - Ano matriculacion: 1995
+Direccion: JUAN AGUAS - VALDEMORO
+--
+ALIPIO MOLERA TIPAN - Matricula: E-5540-OEM - Ano matriculacion: 2009
+Direccion: RIO AGUAS VIVAS - NAVACERRADA
+--
+HUMBERTO BELIZON BARA - Matricula: E-4830-ZUX - Ano matriculacion: 2017
+Direccion: FERMIN AGUAYO - CORPA
+--
+JUVENAL MANE ARZOLA - Matricula: E-8930-NKD - Ano matriculacion: 2012
+Direccion: LAS AGUADORAS - ARGANDA DEL REY
+--
+PATRICIA SOLAS TUERO - Matricula: E-4501-ARM - Ano matriculacion: 1998
+Direccion: MOSEN DOMINGO AGUDO - COLMENAR VIEJO
+--
+ADOLFO MORAZA ECHEVESTE - Matricula: E-6771-BHA - Ano matriculacion: 1998
+Direccion: TERESA AGUESCA - VILLALBILLA
+--
+GUILLERMO AREA HORNO - Matricula: E-9959-OOH - Ano matriculacion: 2016
+Direccion: AGUILAR DE EBRO - BOADILLA DEL MONTE
+--
+DANIEL BROCH VALDERREY - Matricula: E-2373-BNF - Ano matriculacion: 1994
+Direccion: ANTONIO AGUSTIN ALBANEL - VALDETORRES DE JARAMA
+--
+CARINA NOVELL OZORES - Matricula: E-5951-IOG - Ano matriculacion: 2011
+Direccion: MARIA AGUSTIN - SOMOSIERRA
+--
+SERGIO MASCARAQUE MARTELL - Matricula: E-7463-KRU - Ano matriculacion: 2013
+Direccion: AGUSTINES - ZARZALEJ
+--
+LUIS COLLAGUAZO GUDINO - Matricula: E-2174-WKJ - Ano matriculacion: 1997
+Direccion: MARQUES DE AHUMADA - NUEVO BAZTAN
+--
+ARANZAZU COSO DE PAULA - Matricula: E-7225-NPU - Ano matriculacion: 2001
+Direccion: AILANTO - LAS ROZAS
+--
+ARIADNA ARTIEDA MEMBRIVE - Matricula: E-4104-AXX - Ano matriculacion: 1995
+Direccion: AINZON - COLLADO VILLALBA
+--
+FERMIN MADURGA MORROS - Matricula: E-2796-DLT - Ano matriculacion: 2006
+Direccion: AJEDREA - PINUECAR-GANDULLAS
+--
+CONSTANCIO BERBEGAL ELGUEZABAL - Matricula: E-3324-LSD - Ano matriculacion: 2017
+Direccion: AL ANDALUS - HORCAJUELO DE LA SIERRA
+--
+CRISTINA DEL PALACIO ADAMS - Matricula: E-7743-FRM - Ano matriculacion: 1992
+Direccion: LOS ALAMOS - CARABANA
+--
+NICOMEDES VILLODRE VELOZ - Matricula: E-3148-CWL - Ano matriculacion: 2000
+Direccion: ALAGON - GARGANTA DE LOS MONTES
+--
+NATALIA DE LA VARGA ABOY - Matricula: E-1435-RIW - Ano matriculacion: 1997
+Direccion: ALAMEDA - POZUELO DE ALARCON
+--
+BENEDICTO BAGUR ASTASIO - Matricula: E-0588-YHJ - Ano matriculacion: 2002
+Direccion: MONASTERIO DE ALAUN - PELAYOS DE LA PRESA
+--
+FELIX ZUBIAURRE LOSCOS - Matricula: E-3709-BBC - Ano matriculacion: 1999
+Direccion: ALAR DEL REY - EL VELLON
+--
+CIRINO CARRETON VISA - Matricula: E-1828-CFQ - Ano matriculacion: 2021
+Direccion: ALAUN - HUMANES DE MADRID
+--
+CAYETANO ECHARTE CHAIRI - Matricula: E-8763-RMB - Ano matriculacion: 2020
+Direccion: ALAVA - SANTA MARIA DE LA ALAMEDA
+--
+PEDRO RETAMAR ESPINO - Matricula: E-6458-SJR - Ano matriculacion: 2006
+Direccion: DUQUE DE ALBA - LOZOYA
+--
+SONIA OSTOLAZA MATALLANA - Matricula: E-5326-EIQ - Ano matriculacion: 2007
+Direccion: LAGOS DE ALBA - ROBREGORDO
+--
+EFREN COBA RANCANO - Matricula: E-3566-VEO - Ano matriculacion: 2014
+Direccion: ALBACETE - TORREJON DE ARDOZ
+--
+VICTORIO BURGOA OTAEGUI - Matricula: E-0151-HAI - Ano matriculacion: 1995
+Direccion: LA ALBADA - MADARCOS
+--
+AMARO ALMOGUERA MATIA - Matricula: E-2343-URI - Ano matriculacion: 2011
+Direccion: MANUEL ALBAR CATALAN - VELILLA DE SAN ANTONIO
+--
+RAFAEL GARNACHO SUSIN - Matricula: E-8805-FCV - Ano matriculacion: 2013
+Direccion: ALBARDAN - LOECHES
+--
+LIDIA EL ALLALI AGUERRI - Matricula: E-3402-HJZ - Ano matriculacion: 1993
+Direccion: JOSA LUIS ALBAREDA - BECERRIL DE LA SIERRA
+--
+TOMAS PORRERO CASALES - Matricula: E-4253-QZI - Ano matriculacion: 2016
+Direccion: CIUDAD DE ALBARRACIN - ORUSCO DE TAJUNA
+--
+HUMBERTO JARANA SALVANS - Matricula: E-3597-JGK - Ano matriculacion: 2007
+Direccion: ALBATA - SAN MARTIN DE LA VEGA
+--
+BENIGNO HOYA TUGORES - Matricula: E-2824-ROS - Ano matriculacion: 1993
+Direccion: ISAAC ALBENIZ - SAN AGUSTIN DEL GUADALIX
+--
+RAMIRO EL MOUDEN ORIOLA - Matricula: E-8387-KEL - Ano matriculacion: 2005
+Direccion: LA ALBERCA - COLMENAR DEL ARROYO
+--
+URSULA TUTUSAUS VILLOTA - Matricula: E-8015-EFX - Ano matriculacion: 1997
+Direccion: ALBERTO ALBERICIO CONCHON - CARABANA
+--
+COLOMBO PANES CAJAL - Matricula: E-8936-YCD - Ano matriculacion: 2013
+Direccion: LOS ALBERGEROS - VALDEMORILLO
+--
+HERACLIO MERCE EL HASSANI - Matricula: E-6667-RWO - Ano matriculacion: 1996
+Direccion: PASCUAL ALBERO BURILLO - MEJORADA DEL CAMPO
+--
+FERMIN RETUERTO NALDA - Matricula: E-3415-QFX - Ano matriculacion: 2009
+Direccion: POETA RAFAEL ALBERTI - CERCEDA
+--
+FORTUNATO REINALDO BOLINCHES - Matricula: E-6049-CAS - Ano matriculacion: 2017
+Direccion: TOMASO ALBINONI - ALCOBENDAS
+--
+EDMUNDO LLACH RAIGON - Matricula: E-2149-CWM - Ano matriculacion: 2020
+Direccion: FRANCISCO ALBINANA CORRALI - GETAFE
+--
+AMELIA URTIAGA UNA - Matricula: E-9866-AJQ - Ano matriculacion: 2017
+Direccion: ALBETA - HOYO DE MANZANARES
+--
+FATIMA CAEIRO DIAZ GUERRA - Matricula: E-7802-OYZ - Ano matriculacion: 2017
+Direccion: ISLA DE ALBORAN - VALDELAGUNA
+--
+ALICIA INCERA BOUZADA - Matricula: E-6787-KTK - Ano matriculacion: 2011
+Direccion: ALCALA - CAMPO REAL
+--
+SEGISMUNDO ANDRE MORAGAS - Matricula: E-7255-MBI - Ano matriculacion: 2000
+Direccion: ALCALA DE EBRO - BRUNETE
+--
+ABRAHAN TRINANES SAN JULIAN - Matricula: E-5515-POA - Ano matriculacion: 2004
+Direccion: ALCALA DE LA SELVA - LOZOYUELA-NAVAS-SIETEIGLESIAS
+--
+ARISTIDES ASOREY BERDASCO - Matricula: E-9030-HTQ - Ano matriculacion: 1995
+Direccion: RIO ALCANADRE - SAN AGUSTIN DEL GUADALIX
+--
+PATRICIO NAVIDAD BENSAID - Matricula: E-1955-ZUJ - Ano matriculacion: 2020
+Direccion: ALCANIZ - SERRANILLOS DEL VALLE
+--
+EUGENIA EL KADDOURI ALAM - Matricula: E-3246-KEG - Ano matriculacion: 2005
+Direccion: DOCTOR ALCAY - VILLACONEJOS
+--
+MARIANO TERRIZA BUDIA - Matricula: E-9555-SQD - Ano matriculacion: 2016
+Direccion: ALCOBENDAS - QUIJORNA
+--
+MAURICIO ZEPEDA BENITES - Matricula: E-3912-CGF - Ano matriculacion: 2016
+Direccion: ARNALDO ALCIBER - MANZANARES EL REAL
+--
+DACIO ALDECOA QUEREDA - Matricula: E-2154-QME - Ano matriculacion: 1993
+Direccion: ALCORCE A VILLAMAYOR - TORRES DE LA ALAMEDA
+--
+FELIPE MIGUELES AZCUE - Matricula: E-9554-UPA - Ano matriculacion: 2010
+Direccion: ALCORISA - GRINON
+--
+YOLANDA RIVEIRA GALINDEZ - Matricula: E-8583-HSE - Ano matriculacion: 2008
+Direccion: ROQUE J. ALCUBIERRE - POZUELO DE ALARCON
+--
+UBALDO URDANETA CORCOBADO - Matricula: E-2726-IPD - Ano matriculacion: 2015
+Direccion: ALCUBIERRE - SANTA MARIA DE LA ALAMEDA
+--
+CAYETANO BOADO ARDID - Matricula: E-8601-UOQ - Ano matriculacion: 2001
+Direccion: FRAY JOAQUIN ALDEA - VALVERDE DE ALCALA
+--
+LADISLAO DE ARAUJO JUMBO - Matricula: E-8816-JGF - Ano matriculacion: 2005
+Direccion: ALDEBARAN - HOYO DE MANZANARES
+--
+CELIA GAMON SAL - Matricula: E-8587-BTL - Ano matriculacion: 2001
+Direccion: ALEGRIA - RIBATEJADA
+--
+LEANDRO TARDON VENTAS - Matricula: E-1573-HSS - Ano matriculacion: 2009
+Direccion: POETA VICENTE ALEIXANDRE - VILLAVIEJA DEL LOZOYA
+--
+INES PEGO ALFONSIN - Matricula: E-4103-BPR - Ano matriculacion: 2012
+Direccion: ALEMANIA - PATONES
+--
+TOMAS DIMA CHUST - Matricula: E-7081-WLG - Ano matriculacion: 1994
+Direccion: ALFAJARIN - SERRANILLOS DEL VALLE
+--
+MARCOS ALABARCE ACIEN - Matricula: E-8375-SJB - Ano matriculacion: 2013
+Direccion: ALFAMEN - EL MOLAR
+--
+CONSUELO JARDI ERDOZAIN - Matricula: E-8955-RUI - Ano matriculacion: 2010
+Direccion: ALFARERIA - VILLAREJO DE SALVANES
+--
+RAQUEL PEDRAZ OROS - Matricula: E-6509-HAC - Ano matriculacion: 2006
+Direccion: EMILIO ALFARO GRACIA - FRESNO DE TOROTE
+--
+JACINTO LAHLOU AGRAZ - Matricula: E-2584-NZL - Ano matriculacion: 2004
+Direccion: EMILIO ALFARO LAPUERTA - TORRES DE LA ALAMEDA
+--
+ERICO PRIM MARRODAN - Matricula: E-4310-QGJ - Ano matriculacion: 2016
+Direccion: ALFOCEA - FUENTE EL SAZ DE JARAMA
+--
+ELISEO MIJARES DEVIS - Matricula: E-5382-FQZ - Ano matriculacion: 2017
+Direccion: ALFONSO I - BREA DE TAJO
+--
+NAZARIO POQUET MARTIN ALBO - Matricula: E-1209-YRF - Ano matriculacion: 2009
+Direccion: ALFONSO II DE ARAGON - EL ALAMO
+--
+EVARISTO BRAGA SANTO - Matricula: E-2898-VDR - Ano matriculacion: 1999
+Direccion: ALFONSO III DE ARAGON - VALDARACETE
+--
+GEMA CARABANTES MINGUELA - Matricula: E-0764-UBN - Ano matriculacion: 1995
+Direccion: ALFONSO IV DE ARAGON - PARLA
+--
+AURELIANO ALZAGA CENTELLAS - Matricula: E-1432-WQX - Ano matriculacion: 2010
+Direccion: ALFONSO V DE ARAGON - MORALZARZAL
+--
+FELIPE MERENCIANO POPOVICI - Matricula: E-0760-HGD - Ano matriculacion: 2017
+Direccion: ALFONSO X EL SABIO - ANCHUELO
+--
+ALBA LECINA RIENDA - Matricula: E-8987-KTR - Ano matriculacion: 1995
+Direccion: PEDRO ALFONSO - MANZANARES EL REAL
+--
+TIMOTEO PENELLA ISERTE - Matricula: E-3823-DAC - Ano matriculacion: 2020
+Direccion: MIGUEL ALFONSO GRACIA - SANTA MARIA DE LA ALAMEDA
+--
+FIDEL SAN ANTONIO ZULETA - Matricula: E-6779-QYJ - Ano matriculacion: 1993
+Direccion: ALGENIB - GETAFE
+--
+JOSUE OLIETE ARGUEDAS - Matricula: E-0261-XAE - Ano matriculacion: 2009
+Direccion: SERGIO ALGORA - BATRES
+--
+NIEVES RODEIRO NOBLE - Matricula: E-1888-WJT - Ano matriculacion: 1992
+Direccion: ALGUERO - ROZAS DE PUERTO REAL
+--
+ISAIAS VIRTO JOU - Matricula: E-4272-ENA - Ano matriculacion: 2019
+Direccion: RIBERA DEL ALHAMA - FRESNO DE TOROTE
+--
+NIEVES PUIGCERVER OGALLA - Matricula: E-8178-AUT - Ano matriculacion: 1997
+Direccion: ALHAMA DE ARAGON - PEDREZUELA
+--
+GUADALUPE IBRAHIMI LLORT - Matricula: E-3783-TTO - Ano matriculacion: 2003
+Direccion: ALHAMBRA - SAN AGUSTIN DEL GUADALIX
+--
+ACACIO RIOL MORELLO - Matricula: E-5748-JOG - Ano matriculacion: 2014
+Direccion: ALI EL DAROCANO - HUMANES DE MADRID
+--
+ESTHER AFAN VILLATE - Matricula: E-3270-KQC - Ano matriculacion: 2015
+Direccion: ALIAGA - ALDEA DEL FRESNO
+--
+JOSE OTAOLA GUDE - Matricula: E-5340-RLX - Ano matriculacion: 1994
+Direccion: ALICANTE - BOADILLA DEL MONTE
+--
+JORGE PECINA CHANGO - Matricula: E-6170-FRC - Ano matriculacion: 2003
+Direccion: CES REO ALIERTA - TRES CANTOS
+--
+CAYETANO FAROOQ MEDIERO - Matricula: E-8861-SQF - Ano matriculacion: 2011
+Direccion: ALJAFERIA - ANCHUELO
+--
+JACOB MIRAMONTES ROSO - Matricula: E-7564-QSG - Ano matriculacion: 2017
+Direccion: ALJAFERIA - SESENA
+--
+ROBERTO MORANO ARRAZOLA - Matricula: E-0135-BGS - Ano matriculacion: 2018
+Direccion: ALMACEN - MECO
+--
+SANTIAGO SOGORB CALOMARDE - Matricula: E-4121-YNV - Ano matriculacion: 2008
+Direccion: ALMADIEROS DEL RONCAL - VILLANUEVA DE LA CANADA
+--
+AMELIA BEZANILLA KOUSAR - Matricula: E-0278-QXD - Ano matriculacion: 1999
+Direccion: DIEGO ALMAGRO - LOZOYUELA-NAVAS-SIETEIGLESIAS
+--
+MANUELA SENABRE OLTEAN - Matricula: E-1275-PEE - Ano matriculacion: 1993
+Direccion: BATALLA DE ALMANSA - PEDREZUELA
+--
+MOHAMED ECHEBARRIA BORRACHERO - Matricula: E-3300-WNL - Ano matriculacion: 2020
+Direccion: MARIA PILAR ALMENAR BASES - NAVALAFUENTE
+--
+GODOFREDO ZUBIRI SANAGUSTIN - Matricula: E-9393-MPD - Ano matriculacion: 1998
+Direccion: ALMENARA DE SAN JUAN - COSLADA
+--
+JOSAFAT GANDARILLAS UREBA - Matricula: E-8962-WBO - Ano matriculacion: 2012
+Direccion: LA ALMENARETA - LOZOYA
+--
+ALBA REGAL NASTASE - Matricula: E-8006-KHS - Ano matriculacion: 1992
+Direccion: LOS ALMENDROS - FUENTE EL SAZ DE JARAMA
+--
+CRISTIAN IGNAT SEDA - Matricula: E-7561-GBI - Ano matriculacion: 2014
+Direccion: ALMERIA - TORRES DE LA ALAMEDA
+--
+ROSENDO BRACERO ELORDUY - Matricula: E-3212-USS - Ano matriculacion: 1992
+Direccion: ALMONACID DE LA SIERRA - VILLAMANRIQUE DE TAJO
+--
+EDUVIGIS PIERNAS ZAFRILLA - Matricula: E-5309-TLN - Ano matriculacion: 1995
+Direccion: ALMOTILLA - BREA DE TAJO
+--
+FABIO MATITO ESTEFANIA - Matricula: E-3304-KYT - Ano matriculacion: 2012
+Direccion: LA ALMOZARA - TRES CANTOS
+--
+VICTORIO BORISOVA EL ALAOUI - Matricula: E-7663-OJS - Ano matriculacion: 1993
+Direccion: DE LA ALMOZARA - POZUELO DEL REY
+--
+JOSUE KHALIL DE LA RICA - Matricula: E-5896-CLJ - Ano matriculacion: 2001
+Direccion: EL ALMUD - VALDETORRES DE JARAMA
+--
+AURORA AGEITOS TORRALVO - Matricula: E-5157-XRO - Ano matriculacion: 1999
+Direccion: ALMUNIA DE DO A GODINA - EL ATAZAR
+--
+CIRILO DIGON ROSICH - Matricula: E-2384-THW - Ano matriculacion: 2014
+Direccion: ABU YA'FAR AL-MUQTADIR - NAVAS DEL REY
+--
+GONZALO AMPUDIA ATALAYA - Matricula: E-3151-TUB - Ano matriculacion: 1997
+Direccion: ALONSO V - VALDEOLMOS-ALALPARDO
+--
+MIQUEAS MOCHON OTANO - Matricula: E-9284-AZN - Ano matriculacion: 2016
+Direccion: ALQUEZAR - POZUELO DEL REY
+--
+AMPARO FREIXES LAZA - Matricula: E-8410-PNC - Ano matriculacion: 2017
+Direccion: ALTA - HUMANES DE MADRID
+--
+TOBIAS HERMAN OLAVE - Matricula: E-8357-VYG - Ano matriculacion: 2004
+Direccion: ALTO ARAGON - PATONES
+--
+LORENZO CORONAS MARTIARENA - Matricula: E-1664-DQB - Ano matriculacion: 2001
+Direccion: ALTO DE CARABINAS - CERVERA DE BUITRAGO
+--
+BERNABE SALLENT ALPUENTE - Matricula: E-5878-JLZ - Ano matriculacion: 1993
+Direccion: ALTO DEL MOLINO - NAVARREDONDA Y SAN MAMES
+--
+EDMUNDO AMEZ BROTO - Matricula: E-0574-UJK - Ano matriculacion: 1992
+Direccion: ALUMINIO - VALDELAGUNA
+--
+IFIGENIA ADEVA MORADO - Matricula: E-9709-VLH - Ano matriculacion: 2021
+Direccion: JOSE ALUSTIZA AGUERRI - SEVILLA LA NUEVA
+--
+NEMESIO NIGUEZ BARES - Matricula: E-8395-JPS - Ano matriculacion: 2001
+Direccion: MANUEL ALVAR LOPEZ - SAN MARTIN DE LA VEGA
+--
+NICOLAS TAVAREZ BRAU - Matricula: E-3439-YXO - Ano matriculacion: 1999
+Direccion: PEDRO DE ALVARADO - GALAPAGAR
+--
+HECTOR PECERO LACHHAB - Matricula: E-0256-ONU - Ano matriculacion: 2015
+Direccion: CASTA ALVAREZ - POZUELO DE ALARCON
+--
+JOAN GUIRAL BONETE - Matricula: E-0881-JDD - Ano matriculacion: 1999
+Direccion: MARCELINO ALVAREZ - VALDETORRES DE JARAMA
+--
+ALBERT HUERTOS MAYAYO - Matricula: E-3638-RKE - Ano matriculacion: 2003
+Direccion: HERMANOS ALVAREZ QUINTERO - SAN MARTIN DE LA VEGA
+--
+ROQUE SALORT LEGUIZAMON - Matricula: E-6154-PXI - Ano matriculacion: 2013
+Direccion: FERNANDO ALVAREZ RODRIGUEZ - GASCONES
+--
+JULIA PHILLIPS BRANDARIZ - Matricula: E-2904-OXV - Ano matriculacion: 2002
+Direccion: MARIANO ALVIRA LASIERRA - REDUENA
+--
+SALVIO EVORA BONAL - Matricula: E-1081-OPM - Ano matriculacion: 1992
+Direccion: SALVADOR ALLENDE - VELILLA DE SAN ANTONIO
+--
+VIRGILIO GURRUTXAGA MICU - Matricula: E-5581-YQN - Ano matriculacion: 1993
+Direccion: MIGUEL ALLUE SALVADOR - NAVALAFUENTE
+--
+ALMUDENA COLQUE ARECES - Matricula: E-0340-PJB - Ano matriculacion: 2021
+Direccion: AZUCARERA - ALPEDRETE
+--
+EDUARDO ALARCOS CAREAGA - Matricula: E-4904-CXA - Ano matriculacion: 2012
+Direccion: AMAPOLA - HORCAJUELO DE LA SIERRA
+--
+ELVIRA LOGRONO GOMBAU - Matricula: E-9883-ARZ - Ano matriculacion: 1996
+Direccion: JOSEFA AMAR Y BORBON - BATRES
+--
+MANUEL ORUS GIRBAU - Matricula: E-1210-HEC - Ano matriculacion: 2000
+Direccion: JAIME AMAT BERTRAN - MOSTOLES
+--
+NAZARIO INAREJOS VALENTE - Matricula: E-3222-YKQ - Ano matriculacion: 2009
+Direccion: AMAZONAS - TORRELAGUNA
+--
+MOHAMED PINCAY ARENAZA - Matricula: E-7959-QJN - Ano matriculacion: 2001
+Direccion: MIGUEL DE AMBIELA - HOYO DE MANZANARES
+--
+SANTIAGO SEGUIN MONAGO - Matricula: E-4758-PEM - Ano matriculacion: 1995
+Direccion: AMERICA - GETAFE
+--
+ABSALON EL OUARDI NDOYE - Matricula: E-3043-APP - Ano matriculacion: 2003
+Direccion: UN AMERICANO EN PARIS - TORREMOCHA DE JARAMA
+--
+HUMBERTO FONTAO FONDEVILA - Matricula: E-0363-BNT - Ano matriculacion: 2002
+Direccion: FRAY LUIS AMIGO - VALDARACETE
+--
+REBECA LAMBEA YELO - Matricula: E-0815-FHV - Ano matriculacion: 2000
+Direccion: LA AMISTAD - COLMENAR DEL ARROYO
+--
+ISIDRO ESTANY CULLELL - Matricula: E-8508-TAU - Ano matriculacion: 2006
+Direccion: AMSTERDAM - VELILLA DE SAN ANTONIO
+--
+ABEL STITOU CASADEMONT - Matricula: E-1680-YAB - Ano matriculacion: 2010
+Direccion: ANAYET - PERALES DE TAJUNA
+--
+TARSICIO DOYA ADAMES - Matricula: E-6149-TYZ - Ano matriculacion: 1995
+Direccion: IBON DE ANAYET - COLMENAR DEL ARROYO
+--
+AQUILES CERREDUELA FOLGAR - Matricula: E-8789-MFZ - Ano matriculacion: 2000
+Direccion: JOSE DE ANCHETA - ALAMEDA DEL VALLE
+--
+TIMOTEO CANEIRO MORANDEIRA - Matricula: E-3314-HOZ - Ano matriculacion: 2008
+Direccion: ANDALAN - SERRANILLOS DEL VALLE
+--
+ADRIAN EL GHAZI CANSADO - Matricula: E-4278-VUB - Ano matriculacion: 2006
+Direccion: ANDALUCIA - MOSTOLES
+--
+DACIO CALVELO ESPUNA - Matricula: E-6898-PBH - Ano matriculacion: 2018
+Direccion: LOS ANDES - MORALZARZAL
+--
+AUREA PENUELAS AROSA - Matricula: E-2006-TPI - Ano matriculacion: 2017
+Direccion: JUAN FRANCISCO ANDRES DE UZTARROZ - SANTORCAZ
+--
+FEDERICO VENERO COIRA - Matricula: E-5182-TAI - Ano matriculacion: 2020
+Direccion: PILAR ANDRES - ROBREGORDO
+--
+LEONCIO BACALLADO SAGASTI - Matricula: E-3550-BEX - Ano matriculacion: 2016
+Direccion: ANDROMEDA - SOMOSIERRA
+--
+SERGIO GRIMALDOS MONTALVAN - Matricula: E-4170-UYY - Ano matriculacion: 1994
+Direccion: VILLA DE ANDORRA - PARLA
+--
+ABSALON ANES DE HOYOS - Matricula: E-2785-MBI - Ano matriculacion: 2013
+Direccion: ANENTO - VALDARACETE
+--
+AARON USO CARDABA - Matricula: E-9549-PYZ - Ano matriculacion: 2010
+Direccion: PICO DE ANETO - PERALES DE TAJUNA
+--
+ARANZAZU ESCOBOSA OSETE - Matricula: E-3754-XEA - Ano matriculacion: 2010
+Direccion: EL ANGEL AZUL - LOZOYUELA-NAVAS-SIETEIGLESIAS
+--
+AURELIANO BARCINA LIEBANAS - Matricula: E-7541-KFC - Ano matriculacion: 2008
+Direccion: LOS ANGELES - RASCAFRIA
+--
+COLUMBA GATELL ZAERA - Matricula: E-4491-MVO - Ano matriculacion: 2003
+Direccion: MONASTERIO DE NUESTRA SENORA DE LOS AN - COLMENAREJO
+--
+JACOB SENOVILLA PRUNA - Matricula: E-2915-NEH - Ano matriculacion: 1993
+Direccion: ELES - VENTURADA
+--
+ZAQUE WAGNER EL MAIMOUNI - Matricula: E-8444-LFK - Ano matriculacion: 2021
+Direccion: ANINON DE LA CANADA - HOYO DE MANZANARES
+--
+MIGUEL OUCHEN NIKOLAEV - Matricula: E-0435-AJV - Ano matriculacion: 1992
+Direccion: VILLA DE ANSO - ALPEDRETE
+--
+LIDIA DE LA FE BUGARIN - Matricula: E-5402-GMM - Ano matriculacion: 2006
+Direccion: ANTARES - TRES CANTOS
+--
+CARINA PEDROL VILARRASA - Matricula: E-3862-UQD - Ano matriculacion: 1998
+Direccion: FERNANDO DE ANTEQUERA - MEJORADA DEL CAMPO
+--
+NATIVIDAD BORREDA TOBON - Matricula: E-4794-ILG - Ano matriculacion: 2004
+Direccion: MAR DE LAS ANTILLAS - LOS SANTOS DE LA HUMOSA
+--
+SALOMON ANDION ELIPE - Matricula: E-6938-BHQ - Ano matriculacion: 2002
+Direccion: ISIDORO DE ANTILLAN - LA ACEBEDA
+--
+MIRIAM AVECILLA CAZALLAS - Matricula: E-8733-PGF - Ano matriculacion: 2011
+Direccion: ANTLIA - SAN MARTIN DE VALDEIGLESIAS
+--
+NARCISO BARBUDO NAVACERRADA - Matricula: E-4774-FNH - Ano matriculacion: 2014
+Direccion: ANZONIGO - VILLANUEVA DE LA CANADA
+--
+MANUEL ANGUIS CHASCO - Matricula: E-2263-PAN - Ano matriculacion: 2001
+Direccion: TOMAS ANZANO - SAN AGUSTIN DEL GUADALIX
+--
+GEMA SILGADO PECINO - Matricula: E-2132-CZY - Ano matriculacion: 2005
+Direccion: IBON DE ANES CRUCES - TORREMOCHA DE JARAMA
+--
+EMILIA ESPARTERO DEUS - Matricula: E-8011-KVW - Ano matriculacion: 1999
+Direccion: CANON DE ANISCLO - PINUECAR-GANDULLAS
+--
+FACUNDO SILVERO GRAMAGE - Matricula: E-9623-WDF - Ano matriculacion: 2001
+Direccion: ARZOBISPO ANOA DEL BUSTO - FUENTIDUENA DE TAJO
+--
+ANGELA ESTIVILL JUSTEL - Matricula: E-6824-UDS - Ano matriculacion: 1998
+Direccion: PEDRO GARCES DE ANON - PARLA
+--
+ESTEBAN TOBARRA BORDERA - Matricula: E-3796-YER - Ano matriculacion: 2002
+Direccion: ANON - PATONES
+--
+ATANASIO MARRUFO AYESA - Matricula: E-4674-CBM - Ano matriculacion: 1996
+Direccion: ARZOBISPO APAOLAZA - PERALES DE TAJUNA
+--
+CIRO CELI SANMARTI - Matricula: E-0169-XPT - Ano matriculacion: 2016
+Direccion: RAFAELA APARICIO - LAS ROZAS
+--
+VICENTE JORRIN GOROSPE - Matricula: E-6887-ABQ - Ano matriculacion: 2020
+Direccion: AQUELARRE - LOZOYA
+--
+HONORIO ASENOVA DE MARIA - Matricula: E-2311-BEC - Ano matriculacion: 2019
+Direccion: IGNACIO ARA - MORALZARZAL
+--
+ANGELA MOUSSA TREJOS - Matricula: E-1678-TLL - Ano matriculacion: 2015
+Direccion: MIGUEL DE ARA - LA HIRUELA
+--
+OLGA BASALO SALCES - Matricula: E-0717-QUV - Ano matriculacion: 2020
+Direccion: RIO ARA - PARLA
+--
+RAMON CEDRON URIEL - Matricula: E-2175-BVO - Ano matriculacion: 2012
+Direccion: ARAGON - COSLADA
+--
+FATIMA VIEITO TARIQ - Matricula: E-4914-QMY - Ano matriculacion: 2001
+Direccion: DON ALONSO DE ARAGON - LAS ROZAS
+--
+CARINA HORRACH CORVILLO - Matricula: E-6380-XWB - Ano matriculacion: 2016
+Direccion: AGUSTINA DE ARAGON - TORREJON DE VELASCO
+--
+SALVIO AUSINA PEDROSO - Matricula: E-1891-PQM - Ano matriculacion: 2003
+Direccion: BIELLO ARAGON - TORREJON DE ARDOZ
+--
