@@ -28,4 +28,4 @@ If you are unsure about how to contribute or have any questions, please feel fre
 
 ## License
 
-The code in this repository is licensed under the MIT License. You can read more about the MIT License [here](https://opensource.org/licenses/MIT).
+This repository is licensed under the MIT License. See the [LICENSE](./LICENSE.md) file for more information.
