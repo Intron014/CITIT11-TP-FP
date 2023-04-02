@@ -15,7 +15,7 @@ To get started with the code in this repository, you will need to have a code ed
 Once you have a code editor installed, you can clone this repository to your computer using the following command:
 
 ```bash
-git clone https://github.com/Intron014/CITIT11-TP-FP.git
+git clone https://gitea.intron014.com/Intron014/CITIT11-TP-FP.git
 ```
 
 Alternatively, you can download the repository as a ZIP file by clicking the "Download ZIP" button on the GitHub page for this repository.
@@ -24,7 +24,7 @@ Alternatively, you can download the repository as a ZIP file by clicking the "Do
 
 If you would like to contribute to this repository, you can do so by creating a pull request. Before you create a pull request, please make sure that your code follows the style and conventions used in the rest of the repository.
 
-If you are unsure about how to contribute or have any questions, please feel free to open an issue on the GitHub page for this repository.
+If you are unsure about how to contribute or have any questions, please feel free to open an issue on the Gitea page for this repository.
 
 ## License
 
