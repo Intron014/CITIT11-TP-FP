@@ -6,10 +6,16 @@ void main(){
     int num, rest;
     int binary[9]={'0'};
     int binaryordered[9]={'0'};
+    char ans='n';
     do{
-        printf("Introduzca el numero a convertir a binario: ");
-        scanf("%i", &num);
-    }while(num<0||num>256);
+        do{
+            printf("Introduzca el numero a convertir a binario: ");
+            scanf("%i", &num);
+        }while(num<0||num>256);
+        printf("Ha escogido el numero %i. Desea continuar? (y/n): ", num);
+        fflush(stdin);
+        scanf("%c", &ans);
+    }while(ans!='y');
 
     int bit = 0;
     while(num>=1){
