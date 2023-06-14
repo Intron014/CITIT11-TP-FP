@@ -41,5 +41,5 @@ int main() {
         printf("Desea repetir?(y/n)");
         fflush(stdin);
         scanf("%c", &ans);
-    }while(ans=='y'||ans=='Y'||ans=='\n');
+    } while(ans=='y'||ans=='Y'||ans=='\n');
 }
