@@ -5,18 +5,21 @@
 
 int count_words(FILE *file) {
     int word_count = 0;
+    int in_word = 0;
     char c;
 
     while ((c = fgetc(file)) != EOF) {
-        if (c != ' ' && c != '\n') {
+        if (c == ' ' || c == '\n') {
+            in_word = 0;
+        } else if (!in_word) {
+            in_word = 1;
             word_count++;
-
-            while ((c = fgetc(file)) != EOF && c != ' ' && c != '\n') {}
         }
     }
 
     return word_count;
 }
+
 
 char largest_line(FILE *file) {
     char line[MAX_LINE_LEN] = "";
